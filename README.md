@@ -1,0 +1,2 @@
+# Sentiment Analysis with RNN in PyTorch
+In this repository, you will find a notebook providing good example of setiment analysis implementation using recurrent neural network with PyTorch framework. In overview, sentiment analysis system receive input of a paragraph of social media comment and then the system will predict whether it is a positive comment or not. The positive comments are attributed with agree statement and positive emotion.
